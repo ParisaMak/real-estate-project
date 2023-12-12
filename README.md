@@ -1,4 +1,3 @@
-# dtt-project
 
 ## Project setup
 ```
